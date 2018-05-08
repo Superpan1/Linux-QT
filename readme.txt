@@ -5,4 +5,4 @@ author: Master_G
 
 
 
-hah  this is my first project pushed to github, i will keep on upload my code for learing!
+This is my first project pushed to github, i will keep on upload my code for learning! Aha
